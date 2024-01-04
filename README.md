@@ -15,7 +15,6 @@
 
 - 📫 How to reach me **mayurjadhav@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1g9QG97UXjI5dIMzsdnbgWYG11hVOacPJ/view?usp=sharing](https://drive.google.com/file/d/1g9QG97UXjI5dIMzsdnbgWYG11hVOacPJ/view?usp=sharing)
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
