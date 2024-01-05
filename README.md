@@ -7,7 +7,7 @@
  
 - 🔭 I’m currently working on **MERN Stack, Data Structures and Algorithms**
 
-- 🌱 I’m currently working **React.js** **Node.js**
+- 🌱 I’m currently working on **React.js** **&** **Node.js**
 - 🌱 I’m currently learning **Next.js**
 
 - 👨‍💻 All of my projects are available at [https://mayur-portfolio-henna.vercel.app/](https://mayur-portfolio-henna.vercel.app/)
