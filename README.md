@@ -12,9 +12,9 @@
 
 - 👨‍💻 All of my projects are available at [https://mayur-portfolio-henna.vercel.app/](https://mayur-portfolio-henna.vercel.app/)
 
-- 📝 I regularly write articles on [https://medium.com/@mayurjadhav270](https://medium.com/@mayurjadhav270)
+<!-- - 📝 I regularly write articles on [https://medium.com/@mayurjadhav270](https://medium.com/@mayurjadhav270) -->
 
-- 📫 How to reach me **mayurjadhav@gmail.com**
+- 📫 How to reach me **mayurjadhav270@gmail.com**
 
 
 ### Blogs posts
